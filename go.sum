@@ -2,8 +2,8 @@ github.com/PuerkitoBio/goquery v1.8.1 h1:uQxhNlArOIdbrH1tr0UXwdVFgDcZDrZVdcpygAc
 github.com/PuerkitoBio/goquery v1.8.1/go.mod h1:Q8ICL1kNUJ2sXGoAhPGUdYDJvgQgHzJsnnd3H7Ho5jQ=
 github.com/andybalholm/cascadia v1.3.1 h1:nhxRkql1kdYCc8Snf7D5/D3spOX+dBgjA6u8x004T2c=
 github.com/andybalholm/cascadia v1.3.1/go.mod h1:R4bJ1UQfqADjvDa4P6HZHLh/3OxWWEqc0Sk8XGwHqvA=
-github.com/c032/go-ffxiv v0.0.0-20241104035838-3506d5feb7dd h1:Ts93wB2CY2b1Ffv0Ufmio39xYHdYRVZJxbQ+UPVkUwk=
-github.com/c032/go-ffxiv v0.0.0-20241104035838-3506d5feb7dd/go.mod h1:aex6mdGOP6J0KRcQsS50K6b6bAyjYlEqXqVDwlyxq24=
+github.com/c032/go-ffxiv v0.0.0-20241219174016-3bd37587448c h1:bsj+o4gznWUgIjVgD6oYniSAmyTQ1DXiTgt3R9ObYc8=
+github.com/c032/go-ffxiv v0.0.0-20241219174016-3bd37587448c/go.mod h1:oXbuHoZFhYSY1dbKdIPXFd+906ch2vuTu17vRceMKRg=
 github.com/c032/go-logger v0.0.0-20240607170559-97d102556f7a h1:8Vq542+naqAWIqA8yIwPK2vANuy+zgRh+nI3S8jm/4U=
 github.com/c032/go-logger v0.0.0-20240607170559-97d102556f7a/go.mod h1:AoIAOw99tgO3u47zHh3jcgrvl9dh0umpj11aquvvDPA=
 github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
